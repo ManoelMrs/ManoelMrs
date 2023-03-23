@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-daddadasdadasdjadkjadjakhjda
-asdada
-dasdad
-asdada
+Textinho legal aqui!
 
